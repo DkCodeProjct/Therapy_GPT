@@ -4,7 +4,7 @@
 
    # How ever This is My First Chat Bot So, Id Like to Mistake As much as Possible
    # And will Continue to Improve This model
-
+Screenshot from 2024-12-20 10-42-24.png
 
 
 ### Im quit happy with the result, 
