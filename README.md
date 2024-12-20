@@ -2,7 +2,7 @@
   Therapy GPT like transformer model
 
 
-   # How ever This is My First Chat Bot So, Id Like to Mistake As much as Possible
+   # However This is My First Chat Bot So, Id Like to Mistake As much as Possible
    # And will Continue to Improve This model
    
 ![Screenshot](Screenshot%20from%202024-12-20%2010-42-24.png)
