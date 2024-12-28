@@ -51,4 +51,11 @@
               }
               torch.save(checkPnt, filepath)
               print(f"Checkpoint saved to {filepath}")
+## Ok So ive not correct about the fine tune, 
+   + i knew that this itsnt the way to fine tune and ive Upload the correct fine tune code,
+   + but however it needs this line of code:
 
+                          tokenizer = AutoTokenizer.from_pretrained("HuggingFaceTB/SmolLM2-1.7B-Instruct")
+                          model = AutoModelForCausalLM.from_pretrained("HuggingFaceTB/SmolLM2-1.7B-Instruct")
+  + so as soon as i load the pre-trained model, im run out of memory in keggel and also in Google colab
+  +  so ive no idea what to do, but i think i quit know what is fine tune, GPT is making hallucination when i asked about fine tune and theres no clear Documenation to fine ,,, so yea
